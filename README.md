@@ -1,0 +1,2 @@
+**0 Access key ID	Secret access key
+000AKIATU46MIOULLV5SGU5	nFq9pKEEo2aHVTycX36VBJVNaDjKmClRnpVZ8xmA000
